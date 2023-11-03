@@ -11,8 +11,7 @@ Completing this project allowed me to sharpen my skills at building back end ser
 ### Option 1:
 1. Inspect written JavaScript code directly on Github.
 2. View Github page of raw JavaScript code using the link below:
-   https://github.com/Estevan-Gonzales/module-13-challenge-ecommerce-back-end/blob/809528b76076a39fe682b513d9a1cdc7adb852d8/server.js#L4
-    
+   https://github.com/Estevan-Gonzales/module-13-challenge-ecommerce-back-end/blob/809528b76076a39fe682b513d9a1cdc7adb852d8/server.js    
 ### Option 2:
 1. Clone this repository to your local machine.
 2. Open in VS Code.
