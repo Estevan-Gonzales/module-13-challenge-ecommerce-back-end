@@ -32,4 +32,6 @@ Completing this project allowed me to sharpen my skills at building back end ser
 MIT License
 
 ##Video Walkthrough
-[LINK HERE]
+
+https://drive.google.com/file/d/1q84Qz5kV6d039aaZ0QRodXWk4xMVf_r_/view?usp=sharing
+
